@@ -1,4 +1,4 @@
-function readTime($html){
+function readingTime($html){
 
   //counting article images
   libxml_use_internal_errors(true);
